@@ -1,0 +1,58 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+*,*::before,*::after {
+    box-sizing: inherit;
+}
+
+body {
+    text-align: center;
+}
+
+.noodel {
+    background-color: aquamarine;
+}
+
+.lasagna {
+    background-color: yellow;
+}
+
+p {
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    margin : 16px;
+    text-align: left;
+}
+
+.head1 {
+    text-align: left;
+    margin-left : 16px;
+}
+
+.ingredients li {
+    width : 200px;
+    margin : 0 auto;
+    font-weight: 700;
+}
+
+.preparations li {
+    width : 500px;
+    margin : 0 auto;
+    font-weight: 700;
+    margin-bottom : 16px;
+}
+
+.index {
+    font-size: 32px;
+    font-weight: 800;
+    background-color: blueviolet;
+    padding : 10px;
+    display : block;
+    margin : 16px auto;
+    width : 100px;
+    
+}
