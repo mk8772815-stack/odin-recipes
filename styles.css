@@ -1,0 +1,25 @@
+body {
+    background-color : hotpink;
+    margin : 0 auto;
+    text-align: center;
+}
+
+.recipe {
+    padding : 32px;
+    border : 2px solid red;
+    width : 200px;
+    margin : 16px auto;
+    font-weight : 700;
+    font-size : 24px;
+    font-family :'Times New Roman', Times, serif
+}
+
+.link1 {
+    background-color: aqua;
+}
+.link2 {
+    background-color: chocolate;
+}
+.link3 {
+    background-color: azure;
+}
